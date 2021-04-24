@@ -6177,20 +6177,3 @@ a.text-900:hover, a.text-900:focus {
 }
 /*# sourceMappingURL=base.css.map */
 
-
-table {
-   width: 100%;
-   border: 1px solid #000;
-}
-th, td {
-   width: auto;
-   text-align: left;
-   vertical-align: top;
-   border: 1px solid #000;
-   border-collapse: collapse;
-   padding: 0.3em;
-   caption-side: bottom;
-}
-caption {
-   padding: 0.3em;
-}
