@@ -6183,7 +6183,7 @@ table {
    border: 1px solid #000;
 }
 th, td {
-   width: 25%;
+   width: auto;
    text-align: left;
    vertical-align: top;
    border: 1px solid #000;
