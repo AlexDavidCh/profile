@@ -1923,6 +1923,14 @@ button.bg-dark:focus {
 	background-size: cover;
 }
 
+.bg-intro2 {	
+	width: 100%;
+	background: linear-gradient(to right, rgba(0, 0, ,.6), rgba(0, 0, 0, .2)), url(../../images/banner.gif) !important;	
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+
 .m-0 {
 	margin: 0 !important;
 }
