@@ -249,35 +249,15 @@
 	bottom: 0;
 	width: 0;
 	height: 4px;
-	background-color: #6b39bd;
+	background-color: black;
 	border-radius: 0.2rem;
 	content: '';
 	transition: all 0.2s ease-in-out;
 }
 
-.nav-classic .nav-linkR:before {
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    width: 0;
-    height: 4px;
-    background-color: #48C9E0;
-    border-radius: 0.2rem;
-    content: '';
-    transition: all 0.2s ease-in-out;
-}
 
-.nav-classic .nav-linkpowerbi:before {
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    width: 0;
-    height: 4px;
-    background-color: #FFC300;
-    border-radius: 0.2rem;
-    content: '';
-    transition: all 0.2s ease-in-out;
-}
+
+
 
 .nav-classic .nav-link:hover {
 	color: #171724;
